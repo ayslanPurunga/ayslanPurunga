@@ -1,4 +1,4 @@
-<img src="./giphy.gif"  align = "right" width = " 280px " style="border-radius:50px;">
+<img src="./giphy.gif" style="border-radius:50px; width:auto; height:auto;">
 
 ## Hi guys, how are you? Be very welcome! 💙
 
