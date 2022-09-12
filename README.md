@@ -12,11 +12,10 @@
 </div>
 <br>
 I am a software developer, I also have knowledge in the electrical sector. I love programming and sharing knowledge, and I also like Online Games and physical exercises.🔥
-
+<hr>
 <br>
 <b>knowledge in tools</b>
 <br>
-
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:40px"/>
